@@ -24,6 +24,6 @@ I'm very versatile having working in Automotive, Banking and Insurance industrie
 
 ### Consulting
 
-I'm available for consulting via Vambita Solutions
+I'm available for consulting via [Vambita Solutions](https://github.com/vambita)
 
 `practical solutions, delivered`
