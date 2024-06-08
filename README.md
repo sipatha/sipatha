@@ -4,7 +4,7 @@ I'm an experienced Software Developer and Platform Engineer.
 
 ### Development
 
-I am a higly experienced Java developer having started using it from version 1.4 and J2EE 2.1 using the [ant](https://github.com/apache/ant) build tool.
+I am a higly experienced Java developer professionally using it from version 1.4, J2EE 1.2, EJB 2.1 using the [ant](https://github.com/apache/ant) build tool.
 
 I have kept abreast with evolving Java ecosystem transitioning to Java 21 and Jakarta 6 using [Maven](https://github.com/apache/maven) and [Gradle](https://github.com/gradle/gradle) as build tools.
 
