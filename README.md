@@ -14,16 +14,16 @@ Further to Java programming language, I'm also proficient in [Python](https://gi
 
 ### Platform Engineering
 
-I've recently, 5 years now, transitioned into a Platform Enginnering role building and maintaining [Kubernetes](https://github.com/kubernetes/kubernetes) based paltforms on the Azure public cloud.
+I've recently, 5 years now, transitioned into a Platform Engineering role building and maintaining [Kubernetes](https://github.com/kubernetes/kubernetes) based platforms on the Azure public cloud. Continous Integration using Github Actions on [Github Enterprise](https://github.com/enterprise) and Continous Delivery using [FluxCD](https://fluxcd.io/flux/get-started/)
 
 Its been an exciting challenge and allowed for more Golang based development.
 
 ### Domains
 
-I'm very versatile having working in Automotive, Banking and Insurance industries development mainly custom software solutions, systems integration and; customising and extending off the shelf offering.
+I'm very versatile having working in Automotive, Banking and Insurance industries development mainly custom software solutions, systems integration and; customising and extending off-the-shelf offering.
 
 ### Consulting
 
-I'm available for consulting via [Vambita Solutions](https://github.com/vambita). Through Vambita we offer ERP consulting services based on the proven [ERPNext Platform](https://github.com/frappe/erpnext)
+I'm available for consulting via [Vambita Solutions](https://github.com/vambita). Through Vambita we offer ERP consulting services based on the industry proven [ERPNext Platform](https://github.com/frappe/erpnext)
 
 `practical solutions, delivered`
