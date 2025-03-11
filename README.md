@@ -14,7 +14,7 @@ Further to Java programming language, I'm also proficient in [Python](https://gi
 
 ### Platform Engineering
 
-I've recently, 5 years now, transitioned into a Platform Engineering role building and maintaining [Kubernetes](https://github.com/kubernetes/kubernetes) based platforms on the Azure public cloud. Continous Integration using Github Actions on [Github Enterprise](https://github.com/enterprise) and Continous Delivery using [FluxCD](https://fluxcd.io/flux/get-started/)
+I've recently, 5 years now, transitioned into a Platform Engineering role building and maintaining [Kubernetes](https://github.com/kubernetes/kubernetes) based platforms on the Azure public cloud. Continuous Integration using Github Actions on [Github Enterprise](https://github.com/enterprise) and Continuous Delivery using [FluxCD](https://fluxcd.io/flux/get-started/)
 
 Its been an exciting challenge and allowed for more Golang based development.
 
